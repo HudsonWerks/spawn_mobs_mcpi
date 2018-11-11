@@ -1,3 +1,17 @@
+## APPENDED README BY HUDSONWERKS
+
+For idle usage:
+https://ubuntu-mate.community/t/does-anyone-know-how-to-spawn-mobs-in-minecraft-pi-edition/15760/5
+
+git clone https://github.com/Will-777/spawn_mobs_mcpi.git
+cd spawn_mobs_mcpi
+python
+
+>>> execfile("mcpi_mobs.py")
+
+Then, continue Will-777 instructions from here.
+
+
 ## spawn_mobs_mcpi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Will-777/spawn_mobs_mcpi.git)
 
 Python script to spawn some mobs in your Minecraft Pi world.
